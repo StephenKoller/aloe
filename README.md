@@ -1,7 +1,27 @@
 # 🪴 Aloe
+
 Easy-care Deno SSG
 
 ## Goals
-- rapid Markdown to HTML conversion
-- automatic cross-linking
-- TBD
+
+- core:
+  - rapid Markdown to HTML conversion
+  - automatic cross-linking
+  - front matter
+  - image handling
+  - template language(s) support?
+  - partials?
+  - easy theming?
+  - [https://deno.land/x/brotli@v0.1.4?pos=1&qid=906a60789e794d2c5950c54b03e04c3a](Brotli compression)
+
+- DX:
+  - impeccable speed
+  - hot reload dev server
+  - CLI executable
+  - install script
+  - great docs
+  - easy deployment
+
+- stretch:
+  - Obsidian plugin
+  - VS Code plugin
