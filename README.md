@@ -12,7 +12,7 @@ Easy-care Deno SSG
   - template language(s) support?
   - partials?
   - easy theming?
-  - [https://deno.land/x/brotli@v0.1.4?pos=1&qid=906a60789e794d2c5950c54b03e04c3a](Brotli compression)
+  - (Brotli compression)[https://deno.land/x/brotli@v0.1.4?pos=1&qid=906a60789e794d2c5950c54b03e04c3a]
 
 - DX:
   - impeccable speed
